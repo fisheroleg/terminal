@@ -1,0 +1,13 @@
+.menu
+{
+    width: 100%;
+    height: 100%;
+}
+
+.gone
+{
+    left: -100vw!important;
+    -webkit-transition: left .25s ease;
+    -moz-transition: left .25s ease;
+}
+
